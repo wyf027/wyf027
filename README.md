@@ -58,10 +58,12 @@ signal    Less noise, more runtime
 
 ## Metrics
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wyf027&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyf027&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
+| Signal | Current |
+| --- | --- |
+| Contribution rhythm | 3.6k+ contributions in the last year |
+| Primary languages | TypeScript, HTML, JavaScript, Java |
+| Public focus | UI systems, AI gateway ideas, Web3 product surfaces |
+| Working mode | Build, test, document, iterate |
 
 ## Current Direction
 
