@@ -1,16 +1,24 @@
-## Hi there 👋
+# Yangfan Wu
 
-<!--
-**wyf027/wyf027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend / AI builder. Less noise, more runtime.
 
-Here are some ideas to get you started:
+I build interfaces, developer tools, and AI-powered workflows. Most of my work sits around React, TypeScript, Next.js, Node.js, Web3 frontends, and practical automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Frontend architecture with React and TypeScript
+- AI workflow tooling and API integration
+- Web3 product interfaces
+- Clean, usable developer experience
+
+## Selected Work
+
+- [leetcode-solu](https://github.com/wyf027/leetcode-solu) - LeetCode notes, patterns, and problem-solving practice.
+- [react-ui-library](https://github.com/wyf027/react-ui-library) - React + TypeScript component library experiments.
+- [ai-api-gateway](https://github.com/wyf027/ai-api-gateway) - Unified gateway ideas for AI model APIs and routing.
+- [w-swap-frontend](https://github.com/wyf027/w-swap-frontend) - Web3 token swap frontend.
+- [w-stake-fe](https://github.com/wyf027/w-stake-fe) - Web3 staking dashboard frontend.
+
+## Links
+
+- Portfolio: https://wyf027.github.io/
