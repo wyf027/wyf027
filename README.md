@@ -50,6 +50,7 @@ signal    Less noise, more runtime
 
 | Project | Signal |
 | --- | --- |
+| [le-e](https://wyf-le-e.vercel.app/) | A terminal LeetCode workspace with Micro editing, testing, and submission. [Source & setup](https://github.com/wyf027/leetcode-solu/tree/main/project/le-e). |
 | [leetcode-solu](https://github.com/wyf027/leetcode-solu) | LeetCode notes, patterns, and problem-solving practice. |
 | [react-ui-library](https://github.com/wyf027/react-ui-library) | React + TypeScript component library experiments. |
 | [ai-api-gateway](https://github.com/wyf027/ai-api-gateway) | Unified API gateway ideas for model routing, auth, and usage control. |
