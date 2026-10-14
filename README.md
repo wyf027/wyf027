@@ -11,6 +11,33 @@
 
 </div>
 
+## 工具与组件 · Toolbox
+
+把想法，变成好用的工具。开发工具、交互组件和 AI 工作流，都在这里。
+
+[![工具与组件展厅：Devframe、文件预览器、RAG 流程画布等项目](assets/toolbox-preview.png)](https://github.com/wyf027/leetcode-solu/tree/main/project)
+
+<p align="center">
+  <a href="https://github.com/wyf027/leetcode-solu/tree/main/project"><b>浏览项目源码 ↗</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://wyf-leetcode-toolbox.sundean254.chatgpt.site/">交互网页预览 ↗（需访问权限）</a>
+</p>
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/wyf027/leetcode-solu/tree/main/project/devframe-demo"><b>▣ Devframe</b></a><br/>像检查网页一样，探索组件。<br/><sub>开发工具 · DevTools 面板演示</sub></td>
+    <td width="50%"><a href="https://github.com/wyf027/leetcode-solu/tree/main/project/open-file-viewer-demo"><b>▤ 文件预览器</b></a><br/>在浏览器里打开、查看文件。<br/><sub>文件工具 · File API</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/wyf027/leetcode-solu/tree/main/project/rag-flow-demo"><b>◇ RAG 流程画布</b></a><br/>把 AI 查资料、生成回答的过程画出来。<br/><sub>AI 工作流 · 可视化演示</sub></td>
+    <td><a href="https://github.com/wyf027/leetcode-solu/tree/main/project/screenshot-workflow-lite"><b>▧ 截图工作流</b></a><br/>用截图整理流程，生成流程描述。<br/><sub>AI 工作流 · 本地原型</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/wyf027/leetcode-solu/tree/main/project/drag-sort"><b>↕ 拖拽排序</b></a><br/>拖动卡片，顺滑地调整顺序。<br/><sub>交互组件 · FLIP 动画</sub></td>
+    <td><a href="https://github.com/wyf027/leetcode-solu/tree/main/project/mini-react"><b>⌘ Mini React</b></a><br/>从小实现开始，理解 React 原理。<br/><sub>框架学习 · 渲染与调度</sub></td>
+  </tr>
+</table>
+
 ```txt
 profile@wyf027
 role      Frontend / AI builder
