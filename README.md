@@ -1,79 +1,40 @@
-<div align="center">
+# I'm wyf027 👋
 
-# Yangfan Wu
+<a href="https://github.com/wyf027">
+  <img align="right" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wyf027&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="wyf027's GitHub stats" />
+</a>
 
-**Frontend / AI builder**
+- 🛠️ **Yangfan Wu · Frontend / AI builder**
+- 🌱 Exploring **AI workflows, model routing, and developer tools**
+- 📍 Based in **Shenzhen, China**
+- 💻 Building with **React, TypeScript, Next.js, and Node.js**
+- 💬 Ask me about **frontend development, AI workflows, and Web3 interfaces**
+- 🌐 Find my work at **[wyf027.github.io](https://wyf027.github.io/)**
+- ⚡ **Less noise, more runtime.**
 
-`Less noise, more runtime.`
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=wyf027.wyf027)](https://github.com/wyf027)
+[![Portfolio](https://img.shields.io/badge/Portfolio-wyf027.github.io-7aa2f7?style=flat-square&logo=githubpages&logoColor=white)](https://wyf027.github.io/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-wyf027.github.io-238636?style=for-the-badge&logo=githubpages&logoColor=white)](https://wyf027.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-wyf027-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wyf027)
-
-</div>
-
-```txt
-profile@wyf027
-role      Frontend / AI builder
-runtime   React + TypeScript + Next.js + Node.js
-focus     AI workflows, Web3 interfaces, developer tooling
-style     clean UI, typed contracts, practical automation
-location  Shenzhen, China
-signal    Less noise, more runtime
-```
-
-## Control Panel
-
-<table>
-  <tr>
-    <td><b>Interface Systems</b><br/>I build React and TypeScript interfaces with clear state, predictable data flow, and practical component boundaries.</td>
-    <td><b>AI Workflows</b><br/>I explore API gateways, model routing, automation, and tools that turn repeated work into reliable workflows.</td>
-  </tr>
-  <tr>
-    <td><b>Web3 Frontends</b><br/>I work on swap, staking, wallet connection, and dashboard experiences where product clarity matters.</td>
-    <td><b>Developer Experience</b><br/>I care about readable code, typed contracts, useful docs, and shipping things that are easy to continue.</td>
-  </tr>
-</table>
-
-## Stack
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-1f6feb?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-2ea043?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Java-f97316?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Web3-7c3aed?style=flat-square&logo=ethereum&logoColor=white" alt="Web3" />
-  <img src="https://img.shields.io/badge/AI_Workflows-0f766e?style=flat-square&logo=openai&logoColor=white" alt="AI Workflows" />
-</p>
-
-## Selected Work
-
-| Project | Signal |
-| --- | --- |
-| [le-e](https://wyf-le-e.vercel.app/) | A terminal LeetCode workspace with Micro editing, testing, and submission. [Source & setup](https://github.com/wyf027/leetcode-solu/tree/main/project/le-e). |
-| [leetcode-solu](https://github.com/wyf027/leetcode-solu) | LeetCode notes, patterns, and problem-solving practice. |
-| [react-ui-library](https://github.com/wyf027/react-ui-library) | React + TypeScript component library experiments. |
-| [ai-api-gateway](https://github.com/wyf027/ai-api-gateway) | Unified API gateway ideas for model routing, auth, and usage control. |
-| [w-swap-frontend](https://github.com/wyf027/w-swap-frontend) | Web3 token swap frontend. |
-| [w-stake-fe](https://github.com/wyf027/w-stake-fe) | Web3 staking dashboard frontend. |
-
-## Metrics
-
-| Signal | Current |
-| --- | --- |
-| Contribution rhythm | 3.6k+ contributions in the last year |
-| Primary languages | TypeScript, HTML, JavaScript, Java |
-| Public focus | UI systems, AI gateway ideas, Web3 product surfaces |
-| Working mode | Build, test, document, iterate |
-
-## Current Direction
-
-- Build frontend systems that stay understandable as they grow.
-- Turn AI APIs into useful, controlled product workflows.
-- Keep the interface quiet, the types strict, and the runtime honest.
-
----
+<br clear="both" />
 
 <div align="center">
-  <sub>Code is how I leave fingerprints on the future.</sub>
+  <a href="https://github.com/wyf027?tab=overview">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyf027&amp;theme=tokyonight" alt="wyf027's GitHub contribution activity" />
+  </a>
 </div>
+
+<details>
+<summary><b>Selected projects</b></summary>
+
+| Project | What I'm building |
+| --- | --- |
+| [le-e](https://wyf-le-e.vercel.app/) | A terminal LeetCode workspace with editing, testing, and submission. [Source](https://github.com/wyf027/leetcode-solu/tree/main/project/le-e). |
+| [leetcode-solu](https://github.com/wyf027/leetcode-solu) | LeetCode solutions, notes, and problem-solving patterns. |
+| [react-ui-library](https://github.com/wyf027/react-ui-library) | Reusable React + TypeScript components. |
+| [ai-api-gateway](https://github.com/wyf027/ai-api-gateway) | An API gateway for model routing, authentication, and usage control. |
+| [w-swap-frontend](https://github.com/wyf027/w-swap-frontend) | A Web3 token swap frontend. |
+| [w-stake-fe](https://github.com/wyf027/w-stake-fe) | A staking dashboard with React, TypeScript, and Web3 integrations. |
+
+</details>
+
+<sub>Layout inspired by <a href="https://github.com/jjyaoao">jjyaoao</a>.</sub>
