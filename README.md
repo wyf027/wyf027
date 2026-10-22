@@ -31,6 +31,16 @@
   </picture>
 </div>
 
+## 3D Contribution Calendar
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D calendar of wyf027's GitHub contributions" />
+  </picture>
+</div>
+
 <details>
 <summary><b>Selected projects</b></summary>
 
