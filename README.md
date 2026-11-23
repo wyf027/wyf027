@@ -17,6 +17,25 @@
 
 <br clear="both" />
 
+## Tools & Apps
+
+### Developer Tools
+
+- **[le-e](https://github.com/wyf027/leetcode-solu/tree/main/project/le-e)** — Browse LeetCode problems, edit solutions, run tests, and submit from a terminal workspace. [Web demo](https://wyf-le-e.vercel.app/)
+- **[AI API Gateway](https://github.com/wyf027/ai-api-gateway)** — OpenAI-compatible gateway for model routing, API keys, and usage limits.
+- **[Local Web Terminal](https://github.com/wyf027/leetcode-solu/pull/2259)** — Share one tmux session between the browser and your local terminal. *(PR open)*
+- **[leno23-installer](https://github.com/wyf027/leno23-installer)** — Rust CLI that installs files from a GitHub archive without requiring Git.
+
+### Frontend Libraries
+
+- **[React UI Library](https://github.com/wyf027/react-ui-library)** — Reusable React and TypeScript components. [Component gallery](https://wyf027.github.io/react-ui-library/)
+- **[Web3 Wallet SDK](https://github.com/wyf027/w-wallet-sdk)** — React hooks and components for connecting wallets and managing network and balance state. [Demo](https://w-web3-connector.vercel.app/)
+
+### iOS Apps
+
+- **Contest Reminder · 竞赛提醒** — Programming contest calendar and start reminders across five platforms. *(Private repository)*
+- **QingJi · 轻记** — Personal expense tracking, shared family budgets, and a photo journal. *(Private repository)*
+
 <div align="center">
   <a href="https://github.com/wyf027?tab=overview">
     <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyf027&amp;theme=tokyonight" alt="wyf027's GitHub contribution activity" />
@@ -42,14 +61,11 @@
 </div>
 
 <details>
-<summary><b>Selected projects</b></summary>
+<summary><b>More projects</b></summary>
 
 | Project | What I'm building |
 | --- | --- |
-| [le-e](https://wyf-le-e.vercel.app/) | A terminal LeetCode workspace with editing, testing, and submission. [Source](https://github.com/wyf027/leetcode-solu/tree/main/project/le-e). |
 | [leetcode-solu](https://github.com/wyf027/leetcode-solu) | LeetCode solutions, notes, and problem-solving patterns. |
-| [react-ui-library](https://github.com/wyf027/react-ui-library) | Reusable React + TypeScript components. |
-| [ai-api-gateway](https://github.com/wyf027/ai-api-gateway) | An API gateway for model routing, authentication, and usage control. |
 | [w-swap-frontend](https://github.com/wyf027/w-swap-frontend) | A Web3 token swap frontend. |
 | [w-stake-fe](https://github.com/wyf027/w-stake-fe) | A staking dashboard with React, TypeScript, and Web3 integrations. |
 
