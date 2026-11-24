@@ -33,8 +33,8 @@
 
 ### iOS Apps
 
-- **Contest Reminder · 竞赛提醒** — Programming contest calendar and start reminders across five platforms. *(Private repository)*
-- **QingJi · 轻记** — Personal expense tracking, shared family budgets, and a photo journal. *(Private repository)*
+- **[Contest Reminder · 竞赛提醒](https://github.com/wyf027/contest-reminder-ios)** — Programming contest calendar and start reminders across five platforms. *(Private repository)*
+- **[QingJi · 轻记](https://github.com/wyf027/qingji-ios)** — Personal expense tracking, shared family budgets, and a photo journal. *(Private repository)*
 
 <div align="center">
   <a href="https://github.com/wyf027?tab=overview">
